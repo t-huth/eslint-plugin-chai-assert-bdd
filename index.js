@@ -2,8 +2,8 @@
 
 module.exports = {
   'environments': {
-    'mocha': {
-      'chai': {
+    'mocha-chai': {
+      'globals': {
         'assert': true,
         'expect': true,
         'should': true

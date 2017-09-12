@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-chai-assert-bdd",
+  "version": "0.0.0",
+  "description": "eslint-Plugin to add globals for mochas chai assertion library",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Thorsten Huth <t.huth@engelhorn.de>",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "~3.9.1",
+    "mocha": "^3.1.2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT"
+}

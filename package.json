@@ -8,6 +8,10 @@
     "eslint-plugin"
   ],
   "author": "Thorsten Huth <t.huth@engelhorn.de>",
+  "repository" : {
+    "type" : "git"
+  , "url" : "https://github.com/t-huth/eslint-plugin-chai-assert-bdd.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "mocha tests --recursive"

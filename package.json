@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-chai-assert-bdd",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "eslint-Plugin to add globals for mochas chai assertion library",
   "keywords": [
     "eslint",
